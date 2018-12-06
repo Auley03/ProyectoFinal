@@ -5,6 +5,8 @@ public class Usuario {
 	private int age;
 	private String userName;
 	private String userGender;
+	private String country;
+	private String email;
 	
 	public Usuario()
 	{
@@ -17,6 +19,8 @@ public class Usuario {
 		setAge(age);
 		setUserName(userName);
 		setUserGender(userGender);
+		setCountry(country);
+		setEmail(email);
 	}
 	
 	public int getIdUser()
@@ -59,8 +63,24 @@ public class Usuario {
 		this.userGender = userGender;
 	}
 	
+	public String getCountry() {
+		return country;
+	}
+	
+	public void setCountry(String country) {
+		this.country = country;
+	}
+	
+	public String getEmail() {
+		return email;
+	}
+	
+	public void setEmail(String email) {
+		this.email = email;
+	}
+	
 	public String toString()
 	{
-		return "Id User: "+getIdUser()+" Age: "+getAge()+" User Name: "+getUserName()+" User Gender: "+getUserGender();
+		return "Id User: "+getIdUser()+" Age: "+getAge()+" User Name: "+getUserName()+" User Gender: "+getUserGender()+"Country: "+getCountry()+"Email: "+getEmail();
 	}
 }
