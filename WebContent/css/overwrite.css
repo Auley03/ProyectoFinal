@@ -1,7 +1,7 @@
 /* === Typography === */
 h1, h2, h3, h4, h5, h6{
 	font-family: 'Open Sans', sans-serif;
-	color:#353535;
+	color:#fff9f9;
 	font-weight:300;
 	line-height:1.5em;
 	margin-top:0;
@@ -786,7 +786,7 @@ font-size: 10px;
 }
 
 .btn-theme {
-  color:#fff;
+  color:#111;
 }
 
 .btn-theme:hover,.btn-theme:focus,.btn-theme:active{

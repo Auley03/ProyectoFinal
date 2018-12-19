@@ -3,7 +3,7 @@
 a, a:hover,a:focus,a:active, footer a.text-link:hover, strike, footer ul.link-list li a:hover, .post-meta span a:hover, footer a.text-link, 
 ul.meta-post li a:hover, ul.cat li a:hover, ul.recent li h6 a:hover, ul.portfolio-categ li.active a, ul.portfolio-categ li.active a:hover, ul.portfolio-categ li a:hover,ul.related-post li h4 a:hover, span.highlight,article .post-heading h3 a:hover,
 .navbar .nav > .active > a,.navbar .nav > .active > a:hover,.navbar .nav > li > a:hover,.navbar .nav > li > a:focus,.navbar .nav > .active > a:focus, .validation  { 
-	color:#005394;
+	color:#fff9f9;
 }
 
 /* === background color === */
@@ -22,13 +22,13 @@ ul.meta-post li a:hover, ul.cat li a:hover, ul.recent li h6 a:hover, ul.portfoli
 .pagination ul > .active > span,
 .flex-control-nav li a:hover, 
 .flex-control-nav li a.active {
-  background-color: #005394;
+  background-color: #ffffff;
 }
 
 /* === border color === */
 .pagination ul > li.active > a,
 .pagination ul > li.active > span, a.thumbnail:hover, input[type="text"].search-form:focus {
-	border:1px solid #005394;
+	border:1px solid #ffffff;
 }
 
 textarea:focus,
@@ -47,27 +47,27 @@ input[type="search"]:focus,
 input[type="tel"]:focus,
 input[type="color"]:focus,
 .uneditable-input:focus {
-  border-color: #005394;
+  border-color: #ffffff;
 }
 
 input:focus {
-	border-color: #005394;
+	border-color: #ffffff;
 }
 
 form#contactform1 .validation {
-	color: #005394;
+	color: #ffffff;
 }
 
 #sendmessage {
-	color: #005394;
+	color: #ffffff;
 }
 
 .pullquote-left {
-	border-left:5px solid #005394;
+	border-left:5px solid #ffffff;
 }
 
 .pullquote-right {
-	border-right:5px solid #005394;
+	border-right:5px solid #ffffff;
 }
 
 
@@ -88,68 +88,68 @@ form#contactform1 .validation {
 .jcarousel-skin-tango .jcarousel-next-horizontal:hover, 
 .jcarousel-skin-tango .jcarousel-next-horizontal:focus
  {
-	background:#005394;
+	background:#ffffff;
 }
 
 ul.clients li:hover {
-	border:4px solid #005394;
+	border:4px solid #ffffff;
 }
 
 /* buttons */
 .btn-dark:hover,.btn-dark:focus,.btn-dark:active  {
-  background: #005394;
-  border:1px solid #005394;
+  background: #ffffff;
+  border:1px solid #ffffff;
 }
 
 .btn-theme {
-  border:1px solid #005394;
-  background: #005394;
+  border:1px solid #ffffff;
+  background: #ffffff;
 }
 
 /* modal styled */
 .modal.styled .modal-header {
-  background-color: #005394;
+  background-color: #ffffff;
 }
 
 
 /* blog */
 .post-meta {
-	border-top:4px solid #005394;
+	border-top:4px solid #ffffff;
 }
 
 .post-meta .comments a:hover  {
-	color:#005394;
+	color:#ffffff;
 }
 
 .widget ul.tags li a:hover {
-	background: #005394;
+	background: #ffffff;
 }
 
 .recent-post .text h5 a:hover{
-	color:#005394;
+	color:#ffffff;
 }
 
 /* pricing box */
 
 .pricing-box-alt.special .pricing-heading {
-	background: #005394;
+	background: #ffffff;
 }
 
 
 /* portfolio */
 .item-thumbs .hover-wrap .overlay-img {
-	background: #005394;	
+	background: #ffffff;	
 }
 
 
 /* pagination */
 #pagination a:hover {
-    background: #005394;
+    background: #ffffff;
 }
 
 /* pricing box */
 .pricing-box.special .pricing-offer{
-	background: #005394;
+	background: #ffffff;
 }
 
 
@@ -157,42 +157,42 @@ ul.clients li:hover {
 .icon-square:hover,
 .icon-rounded:hover,
 .icon-circled:hover {
-    background-color: #005394;
+    background-color: #ffffff;
 }
 [class^="icon-"].active,
 [class*=" icon-"].active {
-    background-color: #005394;
+    background-color: #ffffff;
 }
 
 /* fancybox */
 .fancybox-close:hover {
-	background-color:#005394;
+	background-color:#ffffff;
 }
 .fancybox-nav:hover span {
-	background-color:#005394;
+	background-color:#ffffff;
 }
 
 /* parallax c slider */
 .da-slide .da-link:hover{
-	background: #005394;
-	border: 4px solid #005394;
+	background: #ffffff;
+	border: 4px solid #ffffff;
 }
 
 .da-dots span{
-	background: #005394;
+	background: #ffffff;
 }
 
 /* flexslider */
 #featured .flexslider .slide-caption {
-	border-left:5px solid #005394;
+	border-left:5px solid #ffffff;
 }
 
 /* Nivo slider */
 .nivo-directionNav a:hover {
-    background-color: #005394;
+    background-color: #ffffff;
 }
 .nivo-caption, .caption {
-	border-bottom: #005394 5px solid;
+	border-bottom: #ffffff 5px solid;
 }
 
 /* footer */

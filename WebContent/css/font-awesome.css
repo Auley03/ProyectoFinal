@@ -560,7 +560,7 @@ ul.the-icons {
     margin: 10px 10px 10px 0;
     display: inline-block !important;
     text-align: center !important;
-    color: #fff;
+    color: #005394;
     width: 18px;
     height: 18px;
 	padding:3px;
@@ -584,7 +584,7 @@ ul.the-icons {
     -webkit-border-radius: 10px;
 }
 .icon-square {
-    background-color: #444;
+    background-color: #fff9f9;
 }
 .icon-plain {
     width: 48px;
