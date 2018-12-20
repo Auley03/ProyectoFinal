@@ -138,32 +138,39 @@
                 <div class="span4 form-group">
                   <input type="text" name="name" class="form-control" id="username" placeholder="Username" data-rule="minlen:4" data-msg="Please enter a valid Username" />
                   <div class="validation"></div>
-                </div>
+                
 
-                <div class="span4 form-group">
                   <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid Email" />
                   <div class="validation"></div>
-                </div>
 
-                <div class="span4 form-group">
                   <input type="text" class="form-control" name="title" id="title" placeholder="Title of your project" data-rule="minlen:4" data-msg="Please enter at least 4 chars of Title" />
                   <div class="validation"></div>
+
+                  <select>
+                    <option value="Action">Select Category</option>
+                    <option value="Action">Action</option>
+                    <option value="Action">Action</option>
+                    <option value="Action">Action</option>
+            
+                  </select>
                 </div>
 
-                <div class="span8 margintop10 form-group">
-                  <textarea class="form-control" name="description" rows="6" data-rule="required" data-msg="Please write a full description of your project" placeholder="Description"></textarea>
+                <div class="span7 margintop10 form-group">
+                  <textarea class="form-control" name="description" rows="5" data-rule="required" data-msg="Please write a full description of your project" placeholder="Description"></textarea>
                   <div class="validation"></div>
+                </div>
 
                   <div class="span4 form-group">
                       <input type="file" accept="video/*">
                   <div class="validation"></div>
                   </div>
-                </br></br></br></br>
 
+                  <div class="span10 form-group">
                   <p class="text-center">
                     <button class="btn btn-large btn-theme margintop10 .e_fadeInDown" type="submit">Upload project</button>
                   </p>
-                </div>
+                  </div>
+
             </form>
           </div>
         </div>

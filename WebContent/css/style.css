@@ -1056,7 +1056,7 @@ ul.portfolio-categ li {
 ul.portfolio-categ li a {
   display: block;
   padding: 35x 0 35x 0;
-  color: #353535;
+  color: #fff;
 }
 
 ul.portfolio-categ li.active a:hover, ul.portfolio-categ li a:hover, ul.portfolio-categ li a:focus, ul.portfolio-categ li a:active {
@@ -2747,14 +2747,20 @@ article img.pull-right, article .align-right {
 .cecicaja {
 
   margin: 30px;
-  background-color: #ffffff;
+  background-color: #f2f2f2;
   border: 1px solid black;
-  opacity: 0.6;
-  filter: alpha(opacity=60); /* For IE8 and earlier */
-}
+  padding: 1%;
+  }
 .cecicaja h4 {
-  margin: 5%;
+  margin: 2%;
   color: #000000;
 }
+
+input[type=email] {
+  
+  background-color: white;
+  
+}
+
 
 /* Theme Styler :: End */
